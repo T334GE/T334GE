@@ -11,7 +11,9 @@
 ### Languages I'm still learning : 
 > <img width="25" height="25" src="https://github.com/user-attachments/assets/14f478c5-72f4-41a3-9f14-468a5f674875"/> 
 > <img width="25" height="25" src="https://github.com/user-attachments/assets/24a61225-1124-4959-9b1d-042f580ce576" />
-> <img width="25" height="25" src="https://github.com/user-attachments/assets/ad7327bc-a61a-4007-99b6-62c682bf521f" /> 
+> <img width="25" height="25" src="https://github.com/user-attachments/assets/ad7327bc-a61a-4007-99b6-62c682bf521f" />
+> <img width="25" height="25" alt="a3s16nut3ylc1" src="https://github.com/user-attachments/assets/23b32ad0-3825-44f5-9013-e60b4080d1e1" />
+
 
 
 ### Also check out my first game
