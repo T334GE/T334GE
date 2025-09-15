@@ -15,5 +15,5 @@
 
 
 ### Also check out my first game
-> [Asteroids](https://github.com/T334GE/Asteroids) : An arcade-style space-shooter.
+> [Asteroids](https://github.com/T334GE/Asteroids) : An arcade-style space-shooter. Made with Pygame.
 > ![preview img](https://github.com/T334GE/Asteroids/blob/main/assets/images/game.gif)
