@@ -5,7 +5,14 @@
 > <img width="25" height="25" src="https://github.com/user-attachments/assets/dc7a32ce-2f60-4f3d-9211-36ff04145490" /> 
 > <img width="25" height="25" src="https://github.com/user-attachments/assets/5f4867ac-94ce-4418-b40c-1749ea20472c" /> 
 > <img width="25" height="25" src="https://github.com/user-attachments/assets/230b30de-f02a-41df-9236-cb3ddee3fcaa" /> 
-> <img width="25" height="25" src="https://github.com/user-attachments/assets/a4f71093-6e1f-419f-8980-a701ecdc86c3" /> 
+> <img width="25" height="25" src="https://github.com/user-attachments/assets/a4f71093-6e1f-419f-8980-a701ecdc86c3" />
+
+
+### Frameworks I am familiar with :
+> <img width="50" height="40" alt="django" src="https://github.com/user-attachments/assets/f4332ed4-db21-4c7c-9b41-88ae8f5fab88" />
+> <img width="25" height="25" alt="4844577" src="https://github.com/user-attachments/assets/1d8f4fdf-30f5-41bb-a9a2-1c1af0fd8e0c" />
+
+
 
 
 ### Languages I'm still learning : 
@@ -13,6 +20,7 @@
 > <img width="25" height="25" src="https://github.com/user-attachments/assets/24a61225-1124-4959-9b1d-042f580ce576" />
 > <img width="25" height="25" src="https://github.com/user-attachments/assets/ad7327bc-a61a-4007-99b6-62c682bf521f" />
 > <img width="25" height="25" alt="a3s16nut3ylc1" src="https://github.com/user-attachments/assets/23b32ad0-3825-44f5-9013-e60b4080d1e1" />
+
 
 
 
