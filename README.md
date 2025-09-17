@@ -1,5 +1,5 @@
 # Welcome to my Profile 👋
-## I am currently learning to be a developer and want to go into game developement
+## I am currently learning to be a developer and want to go into game development
 ## My Languages : 
 > <img width="25" height="25" src="https://github.com/user-attachments/assets/9bcfad88-69e5-4b1e-b440-ea59d20f43b2" /> 
 > <img width="25" height="25" src="https://github.com/user-attachments/assets/dc7a32ce-2f60-4f3d-9211-36ff04145490" /> 
